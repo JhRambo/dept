@@ -1,0 +1,2 @@
+<?php
+	$deptMngUser = array('zqw');
